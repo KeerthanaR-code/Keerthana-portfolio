@@ -15,16 +15,16 @@ I specialize in building intelligent robotic systems from concept to deployment 
 
 ### 1. Agricultural UAV Systems (ArduPilot & PX4)  
 
-<table>
+<table style="border: none;">
 <tr>
-<td style="width:50%; vertical-align:top; padding-right:15px;">
+<td style="width:50%; vertical-align:center; padding-right:15px;">
 - Developed and tuned PID control algorithms in simulation environments using MATLAB/Simulink, ArduPilot SITL and PX4-ROS Gazebo plugins. <br>
 - Worked extensively with Mission Planner (ArduPilot) and QGroundControl (PX4) for mission planning, UAV calibration, and flight testing. <br>
 - Led end-to-end system testing, including system architecture design, control logic implementation, real-time sensor data processing, and actuator response tuning.  
 </td>
 <td style="width:50%; text-align:center;">
-<img src="assets/Grabber_arm.png" alt="UAV System" width="100%">
-<img src="assets/Drone1.png" alt="UAV System" width="100%">
+<img src="assets/Grabber_arm.png" alt="UAV System" width="50%">
+<img src="assets/Drone1.png" alt="UAV System" width="50%">
 </td>
 </tr>
 <tr>
@@ -36,9 +36,9 @@ I specialize in building intelligent robotic systems from concept to deployment 
 - Trained, validated and tested custom YOLO models for object detection and tracking for real-time monitoring from UAV.
 </td>
 <td style="width:50%; text-align:center;">
-<img src="assets/RCcar.png" alt="UAV System" width="100%">
-<img src="assets/Drone2.png" alt="UAV System" width="100%">
-<img src="assets/Drone3.png" alt="UAV System" width="100%">
+<img src="assets/RCcar.png" alt="UAV System" width="30%">
+<img src="assets/Drone2.png" alt="UAV System" width="30%">
+<img src="assets/Drone3.png" alt="UAV System" width="30%">
 </td>
 </tr>
 </table>  
