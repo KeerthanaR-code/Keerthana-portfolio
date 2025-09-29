@@ -18,9 +18,9 @@ I specialize in building intelligent robotic systems from concept to deployment 
 <table>
 <tr>
 <td style="width:50%; vertical-align:top; padding-right:15px;">
-- Developed and tuned PID control algorithms in simulation environments using MATLAB/Simulink, ArduPilot SITL and PX4-ROS Gazebo plugins.
-- Worked extensively with Mission Planner (ArduPilot) and QGroundControl (PX4) for mission planning, UAV calibration, and flight testing.
-- Led end-to-end system testing, including system architecture design, control logic implementation, real-time sensor data processing, and actuator response tuning. 
+- Developed and tuned PID control algorithms in simulation environments using MATLAB/Simulink, ArduPilot SITL and PX4-ROS Gazebo plugins. <br>
+- Worked extensively with Mission Planner (ArduPilot) and QGroundControl (PX4) for mission planning, UAV calibration, and flight testing. <br>
+- Led end-to-end system testing, including system architecture design, control logic implementation, real-time sensor data processing, and actuator response tuning.  
 </td>
 <td style="width:50%; text-align:center;">
 <img src="assets/Grabber_arm.png" alt="UAV System" width="100%">
@@ -29,10 +29,10 @@ I specialize in building intelligent robotic systems from concept to deployment 
 </tr>
 <tr>
 <td style="width:50%; vertical-align:top; padding-right:15px;">
-- Built and tested autonomous obstacle avoidance algorithms:
-    - Prototyped on a modified RC car platform for safe ground-based stereo-camera testing. Worked with OpenCV for real-time processing of stereo camera feeds.
-    - Successfully transitioned to UAV platforms for real-world deployment.
-- Designed and integrated a computer vision system using Intel RealSense D435 and OpenCV on Raspberry Pi, enabling depth-based obstacle detection and YOLO-based people detection from onboard RGB feeds.
+- Built and tested autonomous obstacle avoidance algorithms: <br>
+    - Prototyped on a modified RC car platform for safe ground-based stereo-camera testing. Worked with OpenCV for real-time processing of stereo camera feeds. <br>
+    - Successfully transitioned to UAV platforms for real-world deployment. <br>
+- Designed and integrated a computer vision system using Intel RealSense D435 and OpenCV on Raspberry Pi, enabling depth-based obstacle detection and YOLO-based people detection from onboard RGB feeds. <br>
 - Trained, validated and tested custom YOLO models for object detection and tracking for real-time monitoring from UAV.
 </td>
 <td style="width:50%; text-align:center;">
