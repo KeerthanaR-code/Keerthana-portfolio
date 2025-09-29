@@ -17,26 +17,28 @@ I specialize in building intelligent robotic systems from concept to deployment 
 
 <table>
 <tr>
-<td style="width:60%; vertical-align:top; padding-right:15px;">
+<td style="width:50%; vertical-align:top; padding-right:15px;">
 - Developed and tuned PID control algorithms in simulation environments using MATLAB/Simulink, ArduPilot SITL and PX4-ROS Gazebo plugins.
 - Worked extensively with Mission Planner (ArduPilot) and QGroundControl (PX4) for mission planning, UAV calibration, and flight testing.
 - Led end-to-end system testing, including system architecture design, control logic implementation, real-time sensor data processing, and actuator response tuning. 
 </td>
-<td style="width:40%; text-align:center;">
-<img src="assets/Grabber_arm.png" alt="UAV System" width="50%">
-<img src="assets/Drone1.png" alt="UAV System" width="50%">
+<td style="width:50%; text-align:center;">
+<img src="assets/Grabber_arm.png" alt="UAV System" width="100%">
+<img src="assets/Drone1.png" alt="UAV System" width="100%">
 </td>
-<td style="width:60%; vertical-align:top; padding-right:15px;">
+</tr>
+<tr>
+<td style="width:50%; vertical-align:top; padding-right:15px;">
 - Built and tested autonomous obstacle avoidance algorithms:
     - Prototyped on a modified RC car platform for safe ground-based stereo-camera testing. Worked with OpenCV for real-time processing of stereo camera feeds.
     - Successfully transitioned to UAV platforms for real-world deployment.
 - Designed and integrated a computer vision system using Intel RealSense D435 and OpenCV on Raspberry Pi, enabling depth-based obstacle detection and YOLO-based people detection from onboard RGB feeds.
 - Trained, validated and tested custom YOLO models for object detection and tracking for real-time monitoring from UAV.
 </td>
-<td style="width:40%; text-align:center;">
-<img src="assets/RCcar.png" alt="UAV System" width="30%">
-<img src="assets/Drone2.png" alt="UAV System" width="30%">
-<img src="assets/Drone3.png" alt="UAV System" width="30%">
+<td style="width:50%; text-align:center;">
+<img src="assets/RCcar.png" alt="UAV System" width="100%">
+<img src="assets/Drone2.png" alt="UAV System" width="100%">
+<img src="assets/Drone3.png" alt="UAV System" width="100%">
 </td>
 </tr>
 </table>  
