@@ -15,49 +15,55 @@ I specialize in building intelligent robotic systems from concept to deployment 
 
 ### 1. Agricultural UAV Systems (ArduPilot & PX4)  
 
-<table style="border: none;">
-<tr>
-<td style="width:50%; vertical-align:center; padding-right:15px;">
-- Developed and tuned PID control algorithms in simulation environments using MATLAB/Simulink, ArduPilot SITL and PX4-ROS Gazebo plugins. <br>
-- Worked extensively with Mission Planner (ArduPilot) and QGroundControl (PX4) for mission planning, UAV calibration, and flight testing. <br>
-- Led end-to-end system testing, including system architecture design, control logic implementation, real-time sensor data processing, and actuator response tuning.  
-</td>
-<td style="width:50%; text-align:center;">
-<img src="assets/Grabber_arm.png" alt="UAV System" width="50%">
-<img src="assets/Drone1.png" alt="UAV System" width="50%">
-</td>
-</tr>
-<tr>
-<td style="width:50%; vertical-align:top; padding-right:15px;">
-- Built and tested autonomous obstacle avoidance algorithms: <br>
-    - Prototyped on a modified RC car platform for safe ground-based stereo-camera testing. Worked with OpenCV for real-time processing of stereo camera feeds. <br>
-    - Successfully transitioned to UAV platforms for real-world deployment. <br>
-- Designed and integrated a computer vision system using Intel RealSense D435 and OpenCV on Raspberry Pi, enabling depth-based obstacle detection and YOLO-based people detection from onboard RGB feeds. <br>
-- Trained, validated and tested custom YOLO models for object detection and tracking for real-time monitoring from UAV.
-</td>
-<td style="width:50%; text-align:center;">
-<img src="assets/RCcar.png" alt="UAV System" width="30%">
-<img src="assets/Drone2.png" alt="UAV System" width="30%">
-<img src="assets/Drone3.png" alt="UAV System" width="30%">
-</td>
-</tr>
-</table>  
+<div style="display:flex; gap:20px; align-items:center;">
+  <div style="flex:2;">
+    <p>
+    - Developed and tuned PID control algorithms in simulation environments using MATLAB/Simulink, ArduPilot SITL and PX4-ROS Gazebo plugins. <br>
+    - Worked extensively with Mission Planner (ArduPilot) and QGroundControl (PX4) for mission planning, UAV calibration, and flight testing. <br>
+    - Led end-to-end system testing, including system architecture design, control logic implementation, real-time sensor data processing, and actuator response tuning. 
+    </p>
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="assets/Grabber_arm.png" alt="UAV System" width="40%">
+    <img src="assets/Drone1.png" alt="UAV System" width="40%">
+  </div>
+</div>
+<div style="display:flex; gap:20px; align-items:center;">
+  <div style="flex:2;">
+    <p>
+    - Built and tested autonomous obstacle avoidance algorithms: <br>
+        - Prototyped on a modified RC car platform for safe ground-based stereo-camera testing. Worked with OpenCV for real-time processing of stereo camera feeds. <br>
+        - Successfully transitioned to UAV platforms for real-world deployment. <br>
+    - Designed and integrated a computer vision system using Intel RealSense D435 and OpenCV on Raspberry Pi, enabling depth-based obstacle detection and YOLO-based people detection from onboard RGB feeds. <br>
+    - Trained, validated and tested custom YOLO models for object detection and tracking for real-time monitoring from UAV. 
+    </p>
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="assets/RCcar.png" alt="UAV System" width="30%">
+    <img src="assets/Drone2.png" alt="UAV System" width="30%">
+    <img src="assets/Drone3.png" alt="UAV System" width="30%">
+  </div>
+</div>
 
 ---
 
 ### 2. UAV Motor Thrust Testbed  
 
-<table>
+<table style="border: none;">
 <tr>
-<td style="width:60%; vertical-align:top; padding-right:15px;">
-Designed & built a motor thrust testbed for evaluating UAV propulsion.  
-- Integrated load cells, RPM, current/voltage sensors.  
-- Firmware in C for data acquisition & control.  
-- Web dashboard with **real-time graphing, logging, and motor control routines**.  
+<td style="width:60%; vertical-align:center; padding-right:15px;">
+- Designed and built a motor thrust testbed for evaluating UAV propulsion systems.
+- Selected and integrated sensors (load cells, RPM sensors, current/voltage sensors) for real-time performance monitoring.
+- Developed embedded firmware for data acquisition and control, using C and microcontroller libraries.
+- Integrated the firmware with a custom-built web-based software dashboard that enabled:
+    - Real-time graphing (RPM, thrust, power, etc.)
+    - Data logging for analysis
+    - Control of motor test routines (ramp tests, step responses)
 🔗 [Firmware on GitHub](https://github.com/REUDE-Technologies/REUDE_ROTRIX/tree/c2f114970714c9da11e9d43708735733df56fc4a/Firmware)  
 </td>
 <td style="width:40%; text-align:center;">
-<img src="assets/thrust-testbed.jpg" alt="UAV Thrust Testbed" width="100%">
+<img src="assets/Thrustbed1.jpg" alt="UAV Thrust Testbed" width="50%">
+<img src="assets/Thrustbed2.jpg" alt="UAV Thrust Testbed" width="50%">
 </td>
 </tr>
 </table>  
