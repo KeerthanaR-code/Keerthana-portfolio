@@ -1,8 +1,3 @@
----
-layout: default
-title: "Keerthana Radhakrishnan"
----
-
 # 👋 Hi, I’m Keerthana Radhakrishnan  
 Mechatronics Engineer | MSc Aerospace Engineering  
 🚀 UAVs • Robotics • Autonomous Systems • Control Systems • Computer Vision • Ardupilot • PX4
